@@ -17,6 +17,12 @@ let contacts = [
     tag: 'rfajri27',
     imageUrl: '/images/rfajri27.jpeg',
   },
+  {
+    id: 4,
+    name: 'Hudza Santoso',
+    tag: 'hudzantoso8',
+    imageUrl: '/images/hudza.jpg',
+  }
 ]
  
 function getContacts() {
